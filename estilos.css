@@ -1,0 +1,18 @@
+body
+{
+padding: 10px;
+margin: 40px;
+font-size: 24px;
+font-family: helvetica;
+background-image: url(https://th.bing.com/th/id/R.e62466d9bf810d38a36ec6c072ea4222?rik=Hw9SYDIJ6GvC3g&riu=http%3a%2f%2fthoth3126.com.br%2fwp-content%2fuploads%2f2012%2f12%2fplanetas.jpg&ehk=B%2fQxqInV0FHyKRzQ1XYklxhaESeftzCiZiMuzJlNmuM%3d&risl=&pid=ImgRaw&r=0);
+background-repeat: no-repeat;
+background-size: auto;
+color: aquamarine;
+}
+
+nav
+{
+background-color: white;
+padding: 0px;
+color: blue;
+}
